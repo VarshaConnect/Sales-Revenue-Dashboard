@@ -56,7 +56,6 @@ Sales-Revenue-Dashboard/
 ├── sales_data.csv
 ├── requirements.txt
 ├── README.md
-└── screenshots/
 ```
 
 ## ⚙️ Installation and Setup
